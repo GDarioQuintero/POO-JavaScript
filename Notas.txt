@@ -1,0 +1,37 @@
+JAVASCRIPT ORIENTADO A OBJETOS, BASADO EN PROTOTIPOS
+
+- JavaScript es un lenguaje orientado a objetos basados en PROTOTIPOS
+
+PARADIGMAS:
+
+- Estructurado
+- Orientado a objetos
+- Funcional
+
+POO:
+
+-Orden 
+-Reutilizar codigo
+-Clases: es el molde para crear los objetos 
+
+* QUE ES UN OBJETO EN JAVASCRIPT
+
+-los objetos literales no son los mismo a las instancias de clases o sea a lños objetos de la POO
+-cuando creamosunobjeto literal tenemos a disposicion los metodos y funciones del objeto __Proto__
+-Los array tambien tinen su objeto __proto__ que dispone de un sin numero de metodos y atributos
+
+* CLASES EN JAVASCRIPT
+
+-JAVASCRIPT no esta basado en clases
+
+* LA ABSTRACION:extraer los datos de un objeto real para crear las clases o prototipos.
+* EL ENCAPSULAMIENTO: 
+-esconder metodos y atributos, en js no podemos escondcerlos metodos y atributos, todo es publico.
+-no permitir la alteracion de metodos y atributos 
+
+*LA HERENCIA
+*EL  POLIMOSFIRMO: Permite cambiar los metodos de la clase padre, o que se comporte de una manera diferente
+-Sobrecarga
+-Para,metrico
+-Inclucion : En JAVASCRIPT es posible aplicar solo este tipo de POLIMOSFIRMO- nos permite sobreescribir 
+el metodo o atributo que estemos heredando de la superclase
